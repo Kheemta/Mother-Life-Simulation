@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b4744b7475ac2740a9325a651947dbe, type: 3}
+  m_Name: MotherGamePlayData
+  m_EditorClassIdentifier: 
+  states:
+  - currentState: 0
+    validStates: 0100000004000000
+  - currentState: 1
+    validStates: 02000000
+  - currentState: 2
+    validStates: 03000000
+  - currentState: 3
+    validStates: 04000000
+  - currentState: 4
+    validStates: 05000000
+  - currentState: 5
+    validStates: 0600000007000000
+  - currentState: 7
+    validStates: 08000000
+  - currentState: 8
+    validStates: 09000000
+  - currentState: 9
+    validStates: 0a000000
+  - currentState: 10
+    validStates: 0b000000
+  - currentState: 11
+    validStates: 0c000000
+  - currentState: 12
+    validStates: 0d000000
+  - currentState: 13
+    validStates: 0e000000
+  - currentState: 14
+    validStates: 0e000000

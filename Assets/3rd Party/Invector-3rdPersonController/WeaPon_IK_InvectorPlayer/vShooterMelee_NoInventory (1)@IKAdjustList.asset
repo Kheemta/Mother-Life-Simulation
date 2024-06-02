@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cb2afe458380a5a4aafc1781a445552d, type: 3}
+  m_Name: vShooterMelee_NoInventory (1)@IKAdjustList
+  m_EditorClassIdentifier: 
+  ikTargetPositionOffsetR: {x: 0, y: 0, z: 0}
+  ikTargetRotationOffsetR: {x: 0, y: 0, z: 0}
+  ikTargetPositionOffsetL: {x: 0, y: 0, z: 0}
+  ikTargetRotationOffsetL: {x: 0, y: 0, z: 0}
+  weaponIKAdjusts:
+  - {fileID: 11400000, guid: 774b8d9c21de64742b47f25425026505, type: 2}
+  - {fileID: 11400000, guid: 4da66e76ba174a3498e10042b5a6fa2c, type: 2}
+  - {fileID: 11400000, guid: 416791993f0636346bed87e56103ac74, type: 2}
+  - {fileID: 11400000, guid: e4002478ebbfec9498e33863b179c3fa, type: 2}
+  - {fileID: 11400000, guid: f296987a568aee440af7f212214fada4, type: 2}
